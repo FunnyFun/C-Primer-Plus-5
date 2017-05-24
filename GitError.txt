@@ -1,4 +1,5 @@
-　　在使用git 对源代码进行push到gitHub时可能会出错，信息如下
+20170524　　
+在使用git 对源代码进行push到gitHub时可能会出错，信息如下
 　　此时很多人会尝试下面的命令把当前分支代码上传到master分支上。
 　　$ git push -u origin master搜索
 　　但依然没能解决问题
